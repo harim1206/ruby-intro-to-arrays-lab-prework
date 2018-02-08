@@ -22,3 +22,7 @@ end
 def first_element_with_array_methods (arr)
   arr.unshift
 end
+
+def last_element_with_array_methods (arr)
+  arr.pop
+end
